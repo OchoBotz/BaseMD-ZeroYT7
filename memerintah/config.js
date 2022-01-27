@@ -4,7 +4,7 @@ const chalk = require('chalk')
 //━━━━━━━━━━━━━━━[ WEBSITE API ]━━━━━━━━━━━━━━━━━//
 
 global.APIs = {
-zenz: 'https://zeroyt7-api.xyz',
+zenz: 'https://ochobotz.github.io',
 }
 
 //━━━━━━━━━━━━━━━[ APIKEY WEBSITE API ]━━━━━━━━━━━━━━━━━//
@@ -15,10 +15,10 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'Zero YT7'
-global.owner = ['6285157740529']
-global.packname = 'Zero YT7'
-global.author = 'Zero YT7'
+global.ownername = 'Owner OchoBotz'
+global.owner = ['6282232806698']
+global.packname = 'Hiyaa Mau Nyolong?'
+global.author = 'OchoBotz-Md'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
